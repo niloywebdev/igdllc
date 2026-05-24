@@ -1,0 +1,24 @@
+{
+  "update_enable": false,
+  "enable_update_text": "Please wait, bot is updating",
+  "customers": [
+    {
+      "customer_name": "John Doe",
+      "hwid": "ABC123XYZ",
+      "expiry_date": "2026-12-31",
+      "use_permission": true
+    },
+    {
+      "customer_name": "Alice Smith",
+      "hwid": "XYZ789ABC",
+      "expiry_date": "2027-01-15",
+      "use_permission": true
+    },
+    {
+      "customer_name": "Michael Brown",
+      "hwid": "HWID456DEF",
+      "expiry_date": "2025-11-20",
+      "use_permission": false
+    }
+  ]
+}
