@@ -4,7 +4,7 @@
   "customers": [
     {
       "customer_name": "John Doe",
-      "hwid": "ABC123XYZ",
+      "hwid": "A89EFB1FE6AF297A99A328570CDB84DE",
       "expiry_date": "2026-12-31",
       "use_permission": true
     },
