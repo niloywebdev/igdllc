@@ -1,5 +1,5 @@
 {
-  "update_enable": false,
+  "update_enable": true,
   "enable_update_text": "Please wait, bot is updating",
   "customers": [
     {
