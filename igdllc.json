@@ -1,13 +1,9 @@
-  {    "latest_version": "2.1.0",
-    "update_url": "https://botnil.xo.je/",    "force_update": false,
+  {
+    "latest_version": "2.1.0",
+    "update_url": "https://botnil.xo.je/",
+    "force_update": false,
     "users": {
-      "ID-550e8400-e29b-41d4-a716-446655440000": {
-        "expiry": "2025-12-31",
-        "note": "Premium User"
-      },
-      "DS-QEMU_HARDDISK_QM00001": {
-        "expiry": "2026-06-30",
-        "note": "Trial User"
-      }
+      "ID-{UUID}": {"expiry": "YYYY-MM-DD", "note": "User info"},
+      "DS-{SERIAL}": {"expiry": "YYYY-MM-DD", "note": "User info"}
     }
   }
