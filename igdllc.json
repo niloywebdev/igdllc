@@ -3,7 +3,7 @@
     "update_url": "https://botnil.xo.je/",
     "force_update": false,
     "users": {
-      "ID-{UUID}": {"expiry": "YYYY-MM-DD", "note": "User info"},
+      "ID-{A89EFB1FE6AF297A99A328570CDB84DE}": {"expiry": "2030-12-01", "note": "User info"},
       "DS-{SERIAL}": {"expiry": "YYYY-MM-DD", "note": "User info"}
     }
   }
